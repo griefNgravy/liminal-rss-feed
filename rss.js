@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     const config = await response.json();
 
     // Define feed URL (update with your GitHub Pages URL)
-    const feedUrl = 'https://yourusername.github.io/liminal-rss-feed/rss.xml';
+    const feedUrl = 'https://griefngravy.github.io/liminal-rss-feed/rss.xml';
 
     // Build RSS XML
     let rss = `<?xml version="1.0" encoding="UTF-8"?>
