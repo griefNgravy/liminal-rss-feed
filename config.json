@@ -4,7 +4,7 @@
     "link": "https://foxandthistle.studio/pages/the-liminal",
     "description": "A monthly creative almanac weaving art, poetry, sustainability, and seasonal reflections.",
     "language": "en-us",
-    "pubDate": "Sat, 27 Sep 2025 00:00:00 GMT"  // Update to your latest issue date
+    "pubDate": "Sat, 27 Sep 2025 00:00:00 GMT"
   },
   "issues": [
     {
@@ -14,13 +14,5 @@
       "pubDate": "Sat, 21 Sep 2025 00:00:00 GMT",
       "guid": "liminal-harvest-moon-2025"
     }
-    // Add next issue here, e.g.:
-    // {
-    //   "title": "The Liminal - Hunter Moon Cycle - October 2025",
-    //   "url": "https://foxandthistle.studio/pages/the-liminal-hunter-moon-cycle-october-2025",
-    //   "description": "...",
-    //   "pubDate": "Mon, 21 Oct 2025 00:00:00 GMT",
-    //   "guid": "liminal-hunter-moon-2025"
-    // }
   ]
 }
