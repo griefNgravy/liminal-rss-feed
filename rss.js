@@ -1,32 +1,42 @@
 // Simple static RSS generator for GitHub Pages
 // Loads config.json, fetches issue pages, generates RSS XML
 
+// Function to escape XML special characters
+function escapeXML(str) {
+  return str.replace(/&/g, '&amp;')
+           .replace(/</g, '&lt;')
+           .replace(/>/g, '&gt;')
+           .replace(/"/g, '&quot;')
+           .replace(/'/g, '&apos;');
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
   try {
     // Load config
     const response = await fetch('config.json');
     const config = await response.json();
 
+    // Define feed URL (update with your GitHub Pages URL)
+    const feedUrl = 'https://yourusername.github.io/liminal-rss-feed/rss.xml';
+
     // Build RSS XML
     let rss = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>${config.feed.title}</title>
-    <link>${config.feed.link}</link>
-    <description>${config.feed.description}</description>
+    <title>${escapeXML(config.feed.title)}</title>
+    <link>${escapeXML(config.feed.link)}</link>
+    <description>${escapeXML(config.feed.description)}</description>
     <language>${config.feed.language}</language>
     <pubDate>${config.feed.pubDate}</pubDate>
+    <atom:link href="${escapeXML(feedUrl)}" rel="self" type="application/rss+xml" />
     ${config.issues.map(issue => {
-      // Fetch page and extract content (basic scraping)
-      // In a real setup, you'd await fetch(issue.url) and parse DOM here
-      // For now, use config-provided desc; extend with fetch if needed
       return `
     <item>
-      <title>${issue.title}</title>
-      <link>${issue.url}</link>
-      <description>${issue.description}</description>
+      <title>${escapeXML(issue.title)}</title>
+      <link>${escapeXML(issue.url)}</link>
+      <description>${escapeXML(issue.description)}</description>
       <pubDate>${issue.pubDate}</pubDate>
-      <guid>${issue.guid}</guid>
+      <guid isPermaLink="false">${escapeXML(issue.guid)}</guid>
     </item>`;
     }).join('')}
   </channel>
@@ -46,7 +56,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     a.textContent = 'Download RSS Feed';
     document.body.appendChild(a);
 
-    // For directories: Provide direct RSS URL (view source or /rss.xml)
     console.log('RSS ready! Use this page or save as /rss.xml for linking.');
 
   } catch (error) {
