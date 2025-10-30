@@ -3,7 +3,8 @@
   <channel>
     <title>The Liminal by Fox and Thistle Studio</title>
     <link>https://foxandthistle.studio/pages/the-liminal</link>
-    <description>A monthly creative almanac weaving art, poetry, sustainability, and seasonal reflections.</description>
+   <description>A monthly creative almanac weaving art, poetry, sustainability, and seasonal reflections.</description>
+<itunes:image href="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/Liminial_Logo.png?v=1761665282" />
     <language>en-us</language>
     <pubDate>Sun, 28 Sep 2025 17:00:00 GMT</pubDate>
     <atom:link href="https://griefngravy.github.io/liminal-rss-feed/rss.xml" rel="self" type="application/rss+xml" />
