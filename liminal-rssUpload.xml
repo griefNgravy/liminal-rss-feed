@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<script/>
 <channel>
 <title>The Liminal by Fox and Thistle Studio</title>
 <link>https://foxandthistle.studio/pages/the-liminal</link>
 <description>A monthly creative almanac weaving art, poetry, sustainability, and seasonal reflections.</description>
 <language>en-us</language>
-<pubDate>Sat, 18 Jan 2026 00:00:00 GMT</pubDate>
-<atom:link href="https://griefngravy.github.io/liminal-rss-feed/rss.xml" rel="self" type="application/rss+xml"/>
+<pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
+<atom:link href="https://griefngravy.github.io/liminal-rss-feed/liminal-rssUpload.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>The Liminal - Snow Moon Cycle - January 2026</title>
 <link>https://foxandthistle.studio/pages/the-liminal-snow-moon-cycle-january-2026</link>
 <description><![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/SnowMoon26-1.png?v=1768761664" alt="Snow Moon 2026" style="max-width:100%;height:auto;" /> <p>A creative almanac that drops on each new moon. Stepping Stones, Early Italian Printing, Necessary Limitations, Dolphin & Anchor, Grief & Guardianship, Winter Pruning, Meditation on Uncertainty, Winter Lentils Recipe, and the 2025 Doomsday Hintercast.</p> ]]></description>
 <media:content url="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/SnowMoon26-1.png?v=1768761664" medium="image" width="600" height="800"/>
-<pubDate>Sat, 18 Jan 2026 00:00:00 GMT</pubDate>
+<pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-snow-moon-2026</guid>
 </item>
 <item>
