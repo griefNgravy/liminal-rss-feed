@@ -1,6 +1,4 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<script/>
-<script/>
 <channel>
 <title>The Liminal by Fox and Thistle Studio</title>
 <link>https://foxandthistle.studio/pages/the-liminal</link>
@@ -8,9 +6,17 @@
 <language>en-us</language>
 <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
 <atom:link href="https://griefngravy.github.io/liminal-rss-feed/liminal-rssUpload.xml" rel="self" type="application/rss+xml"/>
+
+<image>
+  <url>https://cdn.shopify.com/s/files/1/0724/1128/3777/files/DragonflyUpsidedown.png?v=1768066791</url>
+  <title>The Liminal by Fox & Thistle Studio</title>
+  <link>https://foxandthistle.studio/pages/the-liminal</link>
+</image>
+
 <item>
 <title>The Liminal - Pink Moon Cycle - March 2026</title>
 <link>https://foxandthistle.studio/pages/the-liminal-pink-moon-cycle-march-2026</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/CrabButterfly.png?v=1773856746" alt="Crab & Butterfly – Pink Moon Cycle 2026" style="max-width:100%;height:auto;" /> <p>Festina Lente—Part Three: Transformation, Dive Bar Ensemble, Pride in the Post, Generational Cookware, Structural Silence, Sideways Progress, Tradewinds, Art Nouveau Monograms Offer, & Prince George's Crab Cakes</p> ]]>
 </description>
@@ -18,9 +24,11 @@
 <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-pink-moon-2026</guid>
 </item>
+
 <item>
 <title>The Liminal - Worm Moon Cycle - February 2026</title>
 <link>https://foxandthistle.studio/pages/the-liminal-worm-moon-cycle-feb-2026</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/DragonflyLogoVid_1x1-ezgif.com-resize.gif?v=1769020720" alt="Dragonfly Logo Animation – Worm Moon Cycle 2026" style="max-width:100%;height:auto;" /> <p>Time Keeping with a Buffalo Hide, Whirlpools in a Stream, Rabbit & Snail Meditation, English Brass Rubbing, Everlasting Flowers, A Cursed To-Do List, Variegated Leaves, Cuniculi Caracoulus Stewius, & What Might a Hero Be?</p> ]]>
 </description>
@@ -28,9 +36,11 @@
 <pubDate>Tue, 17 Feb 2026 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-worm-moon-2026</guid>
 </item>
+
 <item>
 <title>The Liminal - Snow Moon Cycle - January 2026</title>
 <link>https://foxandthistle.studio/pages/the-liminal-snow-moon-cycle-january-2026</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/SnowMoon26-1.png?v=1768761664" alt="Snow Moon 2026" style="max-width:100%;height:auto;" /> <p>A creative almanac that drops on each new moon. Stepping Stones, Early Italian Printing, Necessary Limitations, Dolphin & Anchor, Grief & Guardianship, Winter Pruning, Meditation on Uncertainty, Winter Lentils Recipe, and the 2025 Doomsday Hintercast.</p> ]]>
 </description>
@@ -38,9 +48,11 @@
 <pubDate>Sun, 18 Jan 2026 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-snow-moon-2026</guid>
 </item>
+
 <item>
 <title>The Liminal - Wolf Moon Cycle - December 2025</title>
 <link>https://foxandthistle.studio/pages/the-liminal-wolf-moon-cycle-december-2025</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/WolfMoon-1.jpg?v=1766074574" alt="Wolf Moon 2025" style="max-width:100%;height:auto;" /> <p>A creative almanac that drops on each new moon. The Good Montell paper mouse collages, Mummers Parade in Philadelphia, vintage Bobo sun mask and clown portraits, optical illusions, poetry from Unpositions, Gullah Geechee Hoppin' John recipe, and seasonal reflections on the Wolf Moon cycle.</p> ]]>
 </description>
@@ -48,9 +60,11 @@
 <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-wolf-moon-2025</guid>
 </item>
+
 <item>
 <title>The Liminal – Cold Moon Cycle – November 2025</title>
 <link>https://foxandthistle.studio/pages/the-liminal-cold-moon-cycle-november-2025</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/Cold25-1.jpg?v=1763605993" alt="Cold Moon 2025" style="max-width:100%;height:auto;" /> <p>A creative almanac that drops on each new moon. Holiday Gifting Guide, Thanksgiving Sale, Festive Playlist, Post Impressionism, Ancient Ibex, Upcycled Piano Bar, Persona Masks, Break-up Cards, Post Office Box, Katagami, The Golden Ratio, Candied Sweet Potatoes, Eggnog Recipe, and thoughts on excess...</p> ]]>
 </description>
@@ -58,9 +72,11 @@
 <pubDate>Thu, 20 Nov 2025 01:47:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-cold-moon-2025</guid>
 </item>
+
 <item>
 <title>The Liminal - Hunter Moon Cycle - October 2025</title>
 <link>https://foxandthistle.studio/pages/the-liminal-hunter-moon-cycle-october-2025</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/Liminal_HunterMoon_2025_Front_Cover.jpg?v=1761017729" alt="Hunter Moon 2025" style="max-width:100%;height:auto;" /> <p>Under October's Hunter Moon, The Liminal unfurls autumn's quiet mysteries: a 2026 Fortnight Calendar, Seasonal poems from Alix Klingenberg, Scottish Loom Work, Maritime Arches, 16th-century Absurdism, Lost Friends, and a Four-Toed Feetloaf Recipe. Explore Twilight at Fox &amp; Thistle Studio.</p> ]]>
 </description>
@@ -68,9 +84,11 @@
 <pubDate>Tue, 21 Oct 2025 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-hunter-moon-2025</guid>
 </item>
+
 <item>
 <title>The Liminal - Harvest Moon Cycle - September 2025</title>
 <link>https://foxandthistle.studio/pages/the-liminal-harvest-moon-cycle-september-2025</link>
+<author>Richard W. Saunders (Fox & Thistle Studio) &lt;liminal@foxandthistle.studio&gt;</author>
 <description>
 <![CDATA[ <img src="https://cdn.shopify.com/s/files/1/0724/1128/3777/files/Harvest25-1tiny.jpg?v=1758381354" alt="Harvest Moon 2025" style="max-width:100%;height:auto;" /> <p>Ripe apples, late pears, persimmons, and more. A creative almanac with poetry, recipes, and reflections on the Harvest Moon cycle, dropping with each New Moon.</p> ]]>
 </description>
@@ -78,5 +96,6 @@
 <pubDate>Sun, 21 Sep 2025 00:00:00 GMT</pubDate>
 <guid isPermaLink="false">liminal-harvest-moon-2025</guid>
 </item>
+
 </channel>
 </rss>
